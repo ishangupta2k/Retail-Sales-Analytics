@@ -1,0 +1,33 @@
+# Raw, un-sanitized source data — NEVER commit
+raw_data/
+*.xlsx
+*.xls
+**/Inventory and Sales.xlsx
+**/Master List.xlsx
+
+# Local/private working files
+sanitize/
+private-docs/
+
+# Power BI working files
+powerbi/*.pbix.bak
+*.pbids
+*.pbiviz
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.python-version
+data/*.db
+data/*.db-*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
