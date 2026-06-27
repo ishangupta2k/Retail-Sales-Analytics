@@ -87,15 +87,6 @@ Useful docs:
 - `docs/ai_assistant.md`
 - `reports/retail_summary.md`
 
-## Skills Demonstrated
-
-- Python data loading with standard library CSV and SQLite tooling.
-- SQL aggregation, joins, exception queries, and business metric design.
-- Data documentation, assumptions, and limitation handling.
-- Dashboard and report design for sales and inventory operations.
-- Grounded assistant design using approved SQL-backed tools.
-- Evaluation tests for grounded answers and refusal behavior.
-
 ## What's Included
 
 - CSV-to-SQLite loader
